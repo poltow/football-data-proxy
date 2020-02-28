@@ -95,8 +95,7 @@ It might happen that when a given leagueCode is being imported, the league has p
     Request Example
         curl -v -X GET http://localhost:8080/api/v1/import-league/WC \
         -H "Content-Type: application/json" 
-        -H "X-Auth-Token: a28a53814b6dfe99f12f291f24c2477d" 
-
+ 
     Response example
        HTTP/1.1 201 CREATED
 
