@@ -49,7 +49,7 @@ It might happen that when a given leagueCode is being imported, the league has p
 # SOLUTION:
 
     Development tools/frameworks
-        - Eclipse
+        - Java 8
         - Maven
         - MySql 8
         - Spring Boot
